@@ -42,7 +42,7 @@ a {
 a:hover,
 a:focus,
 a:active {
-    color: #0f72c1;
+    color: #39852c;
 }
 
 .subheading {
@@ -56,7 +56,7 @@ a:active {
                   SOCIAL-ICON
 ====================================================*/
   .list-social-icons a {
-      color: #495057;
+      color: #4c5749;
   }
 
   .list-social-icons a:hover {
@@ -369,7 +369,7 @@ a:active {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #2C3E50;
+    background-color: #31502c;
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -381,7 +381,7 @@ a:active {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-    background-color: #2C3E50;
+    background-color: #31502c;
 }
 
 .portfolio-modal .modal-backdrop {
@@ -461,7 +461,7 @@ a:active {
     content: "";
     width: 1px;
     height: 100%;
-    background: #cfcdcd;
+    background: #cdcfcd;
     position: absolute;
     top: 0;
     left: 50%;
@@ -485,10 +485,10 @@ a:active {
     content: "";
     width: 11px;
     height: 11px;
-    background: #cfcdcd;
+    background: #cdcfcd;
     box-sizing: content-box;
     border: 5px solid #fff;
-    box-shadow: 0 0 0 2px #cfcdcd;
+    box-shadow: 0 0 0 2px #cdcfcd;
     position: absolute;
     top: -54px;
     right: -11px;
@@ -509,7 +509,7 @@ a:active {
     width: 24px;
     height: 24px;
     background: #fff;
-    border: 1px solid #cfcdcd;
+    border: 1px solid #cdcfcd;
     position: absolute;
     top: 17px;
     right: -13px;
@@ -531,7 +531,7 @@ a:active {
 }
 
 #award-box .award:hover .award-icon:before {
-    background: #39b3ff;
+    background: #44a132;
 }
 
 #award-box .award-content {
@@ -546,7 +546,7 @@ a:active {
 }
 
 #award-box .award:hover .award-content {
-    border: 1px solid #cfcdcd;
+    border: 1px solid #cdcfcd;
 }
 
 #award-box .award-content:before {
@@ -555,7 +555,7 @@ a:active {
     width: 14px;
     height: 14px;
     background: #fff;
-    border: 1px solid #cfcdcd;
+    border: 1px solid #cdcfcd;
     position: absolute;
     top: 21px;
     right: -7.3px;
@@ -564,15 +564,15 @@ a:active {
 }
 
 #award-box .award:hover .award-content:before {
-    background: #39b3ff;
-    border-color: #39b3ff;
+    background: #44a132;
+    border-color: #44a132;
 }
 
 #award-box .award-content:after {
     content: "";
     width: 11%;
     height: 1px;
-    background: #cfcdcd;
+    background: #cdcfcd;
     position: absolute;
     top: 28px;
     right: -14%;
@@ -582,7 +582,7 @@ a:active {
     display: block;
     font-size: 15px;
     font-weight: 600;
-    color: #39b3ff;
+    color: #44a132;
     margin: 0 0 8px;
     transition: all 0.3s ease 0s;
 }
@@ -599,7 +599,7 @@ a:active {
 }
 
 #award-box .award:hover .title {
-    color: #39b3ff;
+    color: #44a132;
 }
 
 #award-box .description {
